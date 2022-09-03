@@ -108,5 +108,5 @@ class Nail:
 
 
 tobox = ToolBox()
-screwdriver = Screwdriver(4)
-hammer = Hammer("noir")
+screwdriver = Screwdriver()
+hammer = Hammer()
